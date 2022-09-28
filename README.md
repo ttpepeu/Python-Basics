@@ -14,4 +14,16 @@
 
 - Lista e Tuplas
 
+- Dicionários
+
+- Estrutura de Repetição
+
+- Strings
+
+- Funções
+
+- Manipulação de Arquivos
+
+- Arquivos CSV
+
   ![img](https://media.tenor.com/kyeNs4DnuW0AAAAC/dev_animado.gif)
