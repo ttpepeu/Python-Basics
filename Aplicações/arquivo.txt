@@ -1,0 +1,13 @@
+Ciência de dados definida
+
+A ciência de dados combina vários campos, incluindo estatísticas, métodos científicos,
+inteligência artificial (IA) e análise de dados para extrair valor dos dados.
+Aqueles que praticam ciência de dados são chamados de cientistas de dados e combinam
+uma variedade de habilidades para analisar dados coletados da Web, de smartphones,
+clientes, sensores e outras fontes para obter insights acionáveis.
+
+A ciência de dados abrange a preparação de dados para análise, incluindo limpeza,
+agregação e manipulação dos dados para realizar análises avançadas de dados.
+As aplicações analíticas e os cientistas de dados podem revisar os resultados para
+descobrir padrões e permitir que os líderes de negócios obtenham insights informados.
+
